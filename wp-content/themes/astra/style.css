@@ -63,7 +63,3 @@ Licensed under MIT ( https://github.com/WPTT/webfont-loader/blob/master/LICENSE 
 
 /* Note: The CSS files are loaded from assets/css/ folder. */
 
-
-body, h1, h2, h3, h4, h5, h6, p, a, span, div {
-    font-family: 'Proxima Nova' !important;
-}

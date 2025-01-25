@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Articles</title>
+	<atom:link href="https://pradnyakanawadeyadav.github.io/demosite/category/articles/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pradnyakanawadeyadav.github.io/demosite</link>
+	<description></description>
+	<lastBuildDate>Thu, 23 Jan 2025 20:02:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Demo 4</title>
+		<link>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-4/</link>
+					<comments>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-4/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 19:02:23 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">https://pradnyakanawadeyadav.github.io/demosite/?p=392</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Demo 3</title>
+		<link>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-3/</link>
+					<comments>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-3/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 19:00:05 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">https://pradnyakanawadeyadav.github.io/demosite/?p=390</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Demo 2</title>
+		<link>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-2/</link>
+					<comments>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 18:59:11 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">https://pradnyakanawadeyadav.github.io/demosite/?p=388</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Demo 1</title>
+		<link>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-1/</link>
+					<comments>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-1/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 18:58:34 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">https://pradnyakanawadeyadav.github.io/demosite/?p=386</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://pradnyakanawadeyadav.github.io/demosite/2025/01/23/demo-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
